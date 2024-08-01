@@ -7,8 +7,6 @@
 
 - 📄 Know about my experiences [abdullahshafique.com/resume](abdullahshafique.com/resume)
 
-- ⚡ Fun fact **I am a huge travel enthusiast**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdullah-shafique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-shafique" height="30" width="40" /></a>
