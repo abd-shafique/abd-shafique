@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">A results-oriented Software Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [abdullahshafique.com](abdullahshafique.com)
+- 👨‍💻 All of my projects are available at [abdullahshafique.com](https://abdullahshafique.com)
 
 - 📫 How to reach me **abdshafique@hotmail.com**
 
-- 📄 Know about my experiences [abdullahshafique.com/resume](abdullahshafique.com/resume)
+- 📄 Know about my experiences [abdullahshafique.com/resume](https://abdullahshafique.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
